@@ -1,6 +1,5 @@
 'use strict';
 
-const events = require('../utils/events.js');
 const Client = require('@nmq/q/client');
 
 // socket.on(events.received, message => {
