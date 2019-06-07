@@ -6,7 +6,7 @@
 ### Author: Morgana Spake  
   
 ### Links and Resources  
-* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-19/pull/1)  
+* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-19-mqs/pull/1)  
   
 ### Modules  
 #### `logger.js, server.js`  
@@ -22,4 +22,4 @@ Open two terminals and run the logger and server files from their respective fol
 * What assertions need to be / should be made?  All of them.  
   
 #### UML  
-![uml](https://github.com/401-advanced-javascript-mspake/lab-18/blob/refactor-server-with-nmq/assets/uml.jpg)
+![uml](https://github.com/401-advanced-javascript-mspake/lab-19-mqs/tree/refactor-server-with-nmq/assets)
