@@ -2,10 +2,6 @@
 
 const Client = require('@nmq/q/client');
 
-// socket.on(events.received, message => {
-//   console.log(message);
-// });
-
 const database = new Client('database');
 const files = new Client('files');
 
